@@ -20,10 +20,13 @@ A bunch of content to help novice users get working with the various tools in th
 ## Tools
 
 ### FMR
+
 Some quick start info for FMR
 
 ### FusionXL
+
 Some quick start info for FusionXL
 
 ### .Stat
+
 Some quick start info for .Stat
