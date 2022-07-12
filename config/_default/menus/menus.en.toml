@@ -60,21 +60,21 @@
   name = "Data collection"
   weight = 50
   identifier = "collection"
-  url = "https://getdoks.org/tutorial/introduction/"
+  url = "/docs/prologue/introduction/"
   parent = "use-cases"
   
 [[main]]
   name = "Statistics production"
   weight = 60
   identifier = "production"
-  url = "https://getdoks.org/tutorial/introduction/"
+  url = "/docs/prologue/introduction/"
   parent = "use-cases"  
   
 [[main]]
   name = "Statistics dissemination"
   weight = 70
   identifier = "dissemination"
-  url = "https://getdoks.org/tutorial/introduction/"
+  url = "/docs/prologue/introduction/"
   parent = "use-cases"  
   
 [[main]]
